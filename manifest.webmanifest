@@ -1,0 +1,42 @@
+{
+  "id": "/chai-tycoon/",
+  "name": "Chai Tycoon",
+  "short_name": "Chai Tycoon",
+  "description": "Chai Tycoon by Zaib: an idle tycoon game. Start with a tiny roadside chai stall and grow a chai empire of paratha and samosa counters, dhabas, city caf\u00e9s and a delivery fleet. Hire managers, earn offline and franchise for permanent bonuses.",
+  "lang": "en",
+  "start_url": "/chai-tycoon/?source=pwa",
+  "scope": "/chai-tycoon/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#b4451f",
+  "background_color": "#b4451f",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/chai-tycoon/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/chai-tycoon/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/chai-tycoon/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/chai-tycoon/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
